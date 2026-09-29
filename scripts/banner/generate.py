@@ -47,7 +47,7 @@ YAML_ROWS = [
     (0, "stack", ""),
     (1, "backend", "PHP · Laravel · Elixir · Go · Python"),
     (1, "frontend", "React · Angular · TypeScript"),
-    (1, "databases", "MySQL · PostgreSQL · MongoDB"),
+    (1, "databases", "MySQL · PostgreSQL · MongoDB · Cassandra"),
     (1, "infra", "Linux · Docker · Proxmox"),
     (1, "automation", "Python · Bash · JavaScript"),
     (0, "contact", ""),

@@ -46,8 +46,8 @@
         <sub><code>PHP · Laravel · Elixir · Go · Python · Node.js</code></sub>
       </td>
       <td width="50%" valign="top"><code>├─ ▣ databases:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL, PostgreSQL y MongoDB"><br>
-        <sub><code>MySQL · PostgreSQL · MongoDB</code></sub>
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,cassandra" alt="MySQL, PostgreSQL, MongoDB y Cassandra"><br>
+        <sub><code>MySQL · PostgreSQL · MongoDB · Cassandra</code></sub>
       </td>
     </tr>
     <tr>
