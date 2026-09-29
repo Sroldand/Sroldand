@@ -46,8 +46,9 @@
         <sub><code>PHP · Laravel · Elixir · Go · Python · Node.js</code></sub>
       </td>
       <td width="50%" valign="top"><code>├─ ▣ databases:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,cassandra" alt="MySQL, PostgreSQL, MongoDB y Cassandra"><br>
-        <sub><code>MySQL · PostgreSQL · MongoDB · Cassandra</code></sub>
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,cassandra" alt="MySQL, PostgreSQL, MongoDB y Cassandra">
+        <img src="https://cdn.simpleicons.org/influxdb/76d8d2?viewbox=auto" height="48" alt="InfluxDB"><br>
+        <sub><code>MySQL · PostgreSQL · MongoDB · Cassandra · InfluxDB</code></sub>
       </td>
     </tr>
     <tr>
@@ -64,12 +65,24 @@
     <tr>
       <td valign="top"><code>├─ ◉ tools:</code><br><br>
         <img src="https://cdn.simpleicons.org/composer/c7a4f5?viewbox=auto" height="48" alt="Composer">
+        <img src="https://cdn.simpleicons.org/forgejo/f78ca0?viewbox=auto" height="48" alt="Forgejo">
         <img src="https://skillicons.dev/icons?i=vscode,github,postman" alt="VS Code, GitHub y Postman"><br>
-        <sub><code>VS Code · GitHub · Postman · Composer</code></sub>
+        <sub><code>VS Code · GitHub · Forgejo · Postman · Composer</code></sub>
       </td>
-      <td valign="top"><code>╰─ ⌁ also_code:</code><br><br>
+      <td valign="top"><code>├─ ⌁ also_code:</code><br><br>
         <img src="https://skillicons.dev/icons?i=cpp,python" alt="C++ y Python"><br>
         <sub><code>C++ · Python · scripting</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ ⌬ iot:</code><br><br>
+        <img src="https://cdn.simpleicons.org/mqtt/c7a4f5?viewbox=auto" height="48" alt="MQTT">
+        <img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi"><br>
+        <sub><code>MQTT · Raspberry Pi · gateways</code></sub>
+      </td>
+      <td valign="top"><code>╰─ ◎ monitoring:</code><br><br>
+        <img src="assets/icon-zabbix.svg" height="48" alt="Zabbix"><br>
+        <sub><code>Zabbix · SNMPv3</code></sub>
       </td>
     </tr>
   </tbody>
