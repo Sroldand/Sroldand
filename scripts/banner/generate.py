@@ -45,7 +45,7 @@ YAML_ROWS = [
     (1, "status", "Construyendo · Automatizando · Desplegando"),
     (1, "toolchain", "Git · Docker · Linux"),
     (0, "stack", ""),
-    (1, "backend", "PHP · Laravel · Elixir · Python"),
+    (1, "backend", "PHP · Laravel · Elixir · Go · Python"),
     (1, "frontend", "React · Angular · TypeScript"),
     (1, "databases", "MySQL · PostgreSQL · MongoDB"),
     (1, "infra", "Linux · Docker · Proxmox"),
