@@ -126,5 +126,5 @@
 <br>
 
 <div align="center">
-<sub>Hecho con 💖 y mucho café desde Colombia · @Sroldand · diseño basado en <a href="https://github.com/macu-dev/macu-dev">macu-dev</a></sub>
+<sub>Hecho con 💖 y mucho café desde Colombia · @Sroldand</sub>
 </div>
