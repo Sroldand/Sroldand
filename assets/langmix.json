@@ -1,0 +1,26 @@
+{
+  "title": "Language Stack",
+  "_comment": "Valores 0-100. Edita y corre: python scripts/radar.py --data assets/langmix.json -o assets/radar-langs",
+  "axes": [
+    {
+      "label": "PHP",
+      "value": 88
+    },
+    {
+      "label": "JavaScript/TS",
+      "value": 85
+    },
+    {
+      "label": "Python",
+      "value": 78
+    },
+    {
+      "label": "SQL",
+      "value": 82
+    },
+    {
+      "label": "Bash",
+      "value": 70
+    }
+  ]
+}

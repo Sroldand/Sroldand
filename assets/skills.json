@@ -1,0 +1,30 @@
+{
+  "title": "Software Skill Radar",
+  "_comment": "Autoevaluación 0-100. Edita y corre: python scripts/radar.py --data assets/skills.json -o assets/radar",
+  "axes": [
+    {
+      "label": "Backend (PHP/Laravel)",
+      "value": 85
+    },
+    {
+      "label": "Frontend (React/Angular)",
+      "value": 80
+    },
+    {
+      "label": "Bases de datos",
+      "value": 80
+    },
+    {
+      "label": "Linux & Servidores",
+      "value": 78
+    },
+    {
+      "label": "CRM & Integraciones",
+      "value": 82
+    },
+    {
+      "label": "Docker & Deploy",
+      "value": 72
+    }
+  ]
+}
