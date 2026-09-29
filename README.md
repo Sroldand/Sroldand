@@ -42,8 +42,8 @@
   <tbody>
     <tr>
       <td width="50%" valign="top"><code>├─ ✦ backend:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs" alt="PHP, Laravel, Python y Node.js"><br>
-        <sub><code>PHP · Laravel · Python · Node.js</code></sub>
+        <img src="https://skillicons.dev/icons?i=php,laravel,elixir,python,nodejs" alt="PHP, Laravel, Elixir, Python y Node.js"><br>
+        <sub><code>PHP · Laravel · Elixir · Python · Node.js</code></sub>
       </td>
       <td width="50%" valign="top"><code>├─ ▣ databases:</code><br><br>
         <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL, PostgreSQL y MongoDB"><br>
